@@ -66,7 +66,11 @@ python -m triad.visualize export_dashboard
 ## 📚 Citation
 ```bibtex
 @inproceedings{mihoubi2025triaddrop,
-  title={BEYOND CLASSICAL AND CONTEMPORARY MODELS: A TRANSFORMATIVE AI FRAMEWORK...},
+  title={BEYOND CLASSICAL AND CONTEMPORARY MODELS: A
+TRANSFORMATIVE AI FRAMEWORK FOR STUDENT
+DROPOUT PREDICTION IN DISTANCE LEARNING USING
+RAG, PROMPT ENGINEERING, AND CROSS-MODAL
+FUSION},
   author={Mihoubi, Miloud and Zerkouk, Meriem and Chikhaoui, Belkacem},
   booktitle={Canadian Conference on Artificial Intelligence},
   year={2025}
